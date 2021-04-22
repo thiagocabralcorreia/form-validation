@@ -1,5 +1,6 @@
-# Getting Started with Create React App
+# Form Validation
 
+React form validation using custom hooks.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
